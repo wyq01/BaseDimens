@@ -1,4 +1,4 @@
-package com.ts.basedimenslib;
+package com.wyq.basedimenslib;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

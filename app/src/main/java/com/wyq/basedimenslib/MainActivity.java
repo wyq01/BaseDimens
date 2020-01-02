@@ -1,4 +1,4 @@
-package com.ts.basedimenslib;
+package com.wyq.basedimenslib;
 
 import android.app.Activity;
 import android.os.Bundle;

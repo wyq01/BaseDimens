@@ -1,2 +1,2 @@
 include ':app', ':lib_dimens'
-rootProject.name='BaseDimensLib'
+rootProject.name='BaseDimens'
